@@ -20,7 +20,7 @@ Benchmark 9 models across 4 medical datasets. Our model's lightweight nature is 
 
 
 **Comparison with state-of-the-arts**:
-Our model achieves near-perfect accuracy and produces high-quality refined segmentation mask and 3D reconstructio
+Our model achieves near-perfect accuracy and produces high-quality refined segmentation mask and 3D reconstruction.
 |     |  |
 | -------- | ------- |
 | <img width="500px" src="publication/3D.png"> | <img width="300px" src="publication/comparison.png"> |
@@ -45,6 +45,10 @@ Setup the dataset and make sure to process the data into this structures. All da
         ├── 0001_0002.npy
         ├── 0001_0003.npy
         ├── ...   
+```
+Then start training
+```
+python train.py
 ```
 
 ## Citation
