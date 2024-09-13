@@ -5,10 +5,10 @@
 [![arXiv](https://a11ybadges.com/badge?logo=arxiv)](https://arxiv.org/abs/2409.05280)
 
 ## Presentation
-[![Papers with Code](https://img.shields.io/badge/Video-link-red)](https://paperswithcode.com/)
-[![Papers with Code](https://img.shields.io/badge/Slide-link-green)](https://paperswithcode.com/)
-[![Papers with Code](https://img.shields.io/badge/Poster-link-brown)](https://paperswithcode.com/)
-[![Papers with Code](https://img.shields.io/badge/Paper_with_code-link-blue)](https://paperswithcode.com/)
+[![Papers with Code](https://img.shields.io/badge/Video-link-red)](https://www.facebook.com/share/v/2p6YfjM4RaPLVbJM/)
+[![Papers with Code](https://img.shields.io/badge/Slide-link-green)](https://drive.google.com/file/d/11xyR8JpEheDu_ReHQwDMSGWLa5kjKcmQ/view?usp=sharing)
+[![Papers with Code](https://img.shields.io/badge/Poster-link-brown)](https://drive.google.com/file/d/1Y3TW2CqJSxAwb3eiyyiyDMSdvlZkiiGr/view?usp=sharing)
+[![Papers with Code](https://img.shields.io/badge/Paper_with_code-link-blue)](https://paperswithcode.com/paper/rotcatt-transunet-novel-deep-neural-network)
 
 
 ## Abstract
